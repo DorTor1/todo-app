@@ -41,7 +41,3 @@ npm run build
  
 - React, Next.js, TypeScript
 - И другие важные библиотеки
-
-## Лицензия
-
-MIT
