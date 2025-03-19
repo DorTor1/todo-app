@@ -38,9 +38,8 @@ npm run build
 ```
 
 ## Технологии
-
-- Перечислите основные технологии
-- Например: React, Next.js, TypeScript
+ 
+- React, Next.js, TypeScript
 - И другие важные библиотеки
 
 ## Лицензия
