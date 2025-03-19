@@ -17,8 +17,6 @@ cd название-репозитория
 3. Установите зависимости:
 ```bash
 npm install
-# или
-yarn install
 ```
 
 ## Запуск
@@ -26,9 +24,7 @@ yarn install
 Для запуска проекта в режиме разработки выполните:
 
 ```bash
-npm run dev
-# или
-yarn dev
+npm start
 ```
 
 Откройте [http://localhost:3000](http://localhost:3000) в вашем браузере для просмотра приложения.
@@ -39,8 +35,6 @@ yarn dev
 
 ```bash
 npm run build
-# или
-yarn build
 ```
 
 ## Технологии
